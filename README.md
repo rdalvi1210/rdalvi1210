@@ -1,4 +1,3 @@
-[![MasterHead](https://wallpaperaccess.com/full/8901672.jpg)](https://rdalvi1210.github.io/rdalviportfolio.github.io/)
 <h1 align="center">Hi 👋, I'm Ramchandra Dalvi</h1>
 <h3 align="center">A passionate MernStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
