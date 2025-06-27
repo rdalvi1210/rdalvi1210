@@ -2,7 +2,7 @@
 <h3>A passionate MernStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 
-- 🌱 I’m currently learning **MernStack**
+- 🌱 I’m **MernStack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rdalvi1210](https://rdalvi1210.github.io/rdalviportfolio.github.io/)
 
