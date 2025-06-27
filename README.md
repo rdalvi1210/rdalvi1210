@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Ramchandra Dalvi</h1>
 <h3>A passionate MernStack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
+<img align="right" alt="Coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif"/>
 
 - 🌱 I’m **MernStack Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rdalvi1210](https://rdalvi1210.github.io/rdalviportfolio.github.io/)
+- 👨‍💻 All of my projects are available at My Portfolio -  [https://devrdalvi1210.com](https://rdalvi1210.github.io/rdalviportfolio.github.io/)
 
 - 📫 How to reach me **rdalvi1210@gmail.com**
 
