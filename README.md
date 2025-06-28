@@ -4,7 +4,7 @@
 
 - 🌱 I’m **MernStack Developer**
 
-- 👨‍💻 All of my projects are available at My Portfolio -  [https://devrdalvi1210.com](https://rdalvi1210.github.io/rdalviportfolio.github.io/)
+- 👨‍💻 All of my projects are available at My Portfolio -  [https://devrdalvi1210.com](https://rdalvi1210.github.io/ramchandradalviportfolio/)
 
 - 📫 How to reach me **rdalvi1210@gmail.com**
 
