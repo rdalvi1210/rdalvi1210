@@ -31,6 +31,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 ## 📊 GitHub Stat's:
-![Ramchandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdalvi1210&show_icons=true&theme=midnight-purple)
+![Ramchandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdalvi1210&show_icons=true&theme=midnight-voilet)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
