@@ -7,7 +7,7 @@
 ---
 
 - 🌱 I’m a **MERN Stack Developer**
-- 👨‍💻 All of my projects are available on my portfolio: [🔗 rdalvi1210dev.com](https://rdalvi1210.github.io/ramchandradalviportfolio/)
+- 👨‍💻 My Portfolio : [🔗 rdalvi1210dev.com](https://rdalvi1210.github.io/ramchandradalviportfolio/)
 - 📫 Reach me at: **rdalvi1210@gmail.com**
 - ⚡ Fun fact: **I am Cool 😄**
 
