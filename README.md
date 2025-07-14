@@ -7,13 +7,16 @@
 ---
 
 - 🌱 I’m a **MERN Stack Developer**
+- 
 - 👨‍💻 My Portfolio : [🔗 rdalvi1210dev.com](https://rdalvi1210.github.io/ramchandradalviportfolio/)
+- 
 - 📫 Reach me at: **rdalvi1210@gmail.com**
+
 - ⚡ Fun fact: **I am Cool 😄**
 
 ---
 
-### 🤝 Connect with me
+### 🔗 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ramchandra-dalvi-002a5b363/" target="_blank">
