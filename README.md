@@ -49,6 +49,6 @@
 
 ## 📊 GitHub Stats
 
-![Ramchandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdalvi1210&show_icons=true&theme=midnight-purple)
+![Ramchandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdalvi1210&show_icons=true&theme=light)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
