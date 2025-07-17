@@ -8,7 +8,7 @@
 
 - 🌱 I’m a **MERN Stack Developer**
 
-- 🌱 My Live Project : [🔗 https://kaivalyainfotech.vercel.app/]([https://kaivalyainfotech.vercel.app/])**
+- 🌱 My Live Project : [🔗 https://kaivalyainfotech.vercel.app/]([https://kaivalyainfotech.vercel.app/])
 
 - 👨‍💻 My Portfolio : [🔗 rdalvi1210dev.com](https://rdalvi1210.github.io/ramchandradalviportfolio/)
 
