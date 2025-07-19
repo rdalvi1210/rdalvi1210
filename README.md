@@ -1,4 +1,4 @@
-# 👋 Hello, Ram Dalvi here
+# 👋 Hello, Ram Dalvi here....
 
 ### 🌐 Skilled in MERN Stack, turning complex ideas into powerful and user-friendly web solutions.
 
@@ -6,7 +6,7 @@
 
 ---
 
-- 🌱 I’m a **MERN Stack Developer**
+- 🌱 I’m a **Software Developer**
 
 - 🌐 Live Project: [🔗 kaivalyainfotech.vercel.app](https://kaivalyainfotech.vercel.app)
 
