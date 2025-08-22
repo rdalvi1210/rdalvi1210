@@ -4,7 +4,7 @@
 🎓 IT graduate focused on clean code and user-first design.<br/>
 🌱 Continuously learning new tech and best practices.<br/>
 🔍 Actively seeking opportunities to grow as a developer.<br/>
-🌐 Believer in sharing knowledge and building in public.<br/>
+🌐 Believer in sharing knowledge and building in public.<br/>    
 
 ## 🔗 Portfolio & Contact
 
